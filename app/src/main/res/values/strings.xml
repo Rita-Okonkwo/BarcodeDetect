@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarcodeDetect</string>
+    <string name="barcode">Barcode Image</string>
+    <string name="process">Process</string>
+    <string name="detector">Couldn\'t set up detector</string>
+    <string name="text">Text from Barcode shows here</string>
+    <string name="snap">Snap Barcode</string>
+</resources>
